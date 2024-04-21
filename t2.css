@@ -38,7 +38,6 @@ body {
   color:rgb(224, 217, 218);
   font-family: 'Courier New', Courier, monospace;
   letter-spacing: 2px;
-  white-space: nowrap;
   overflow: hidden;
   text-align: center;
   animation: typing 2s step(50);
